@@ -44,3 +44,45 @@ download **MultiMc**, extract the zip file, click add new instance, click on mod
 - Discord - https://discord.gg/nFrZATpzEy
 - Github - https://github.com/Teinyx/2b2t-modpack-no-client
 - Ko-fi - https://ko-fi.com/teinyx
+
+---
+
+Mod Auther Creddits
+
+- https://modrinth.com/user/Chaws
+- https://modrinth.com/user/isxander
+- https://modrinth.com/user/mineblock11
+- https://modrinth.com/user/BloCamLimb
+- https://modrinth.com/user/AndyRusso
+- https://modrinth.com/user/caelthecolher
+- https://modrinth.com/user/shedaniel
+- https://modrinth.com/user/jellysquid3
+- https://modrinth.com/user/funniray
+- https://modrinth.com/user/FlashyReese
+- https://modrinth.com/user/keksuccino
+- https://modrinth.com/user/squeek502
+- https://modrinth.com/user/Constructor
+- https://modrinth.com/user/socolio
+- https://modrinth.com/user/masa
+- https://modrinth.com/user/modmuss50
+- https://modrinth.com/user/Loxoz
+- https://modrinth.com/user/NotRyken
+- https://modrinth.com/user/enjarai
+- https://modrinth.com/user/BlayTheNinth
+- https://modrinth.com/user/Johni0702
+- https://modrinth.com/user/way2muchnoise
+- https://modrinth.com/user/Fuzs
+- https://modrinth.com/user/IMS
+- https://modrinth.com/user/jaredlll08
+- https://modrinth.com/user/kyrptonaught
+- https://modrinth.com/user/alejandrocoria
+- https://modrinth.com/user/eclipseisoffline
+- https://modrinth.com/user/tr7zw
+- https://modrinth.com/user/mysticdrew
+- https://modrinth.com/user/TheCSDev
+- https://modrinth.com/user/FlorianMichael
+- https://modrinth.com/user/KGriffon
+- https://modrinth.com/user/mezz
+- https://modrinth.com/user/strikerrocker
+- https://github.com/leijurv
+- https://www.curseforge.com/members/masady/projects
