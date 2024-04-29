@@ -44,6 +44,7 @@ download **MultiMc**, extract the zip file, click add new instance, click on mod
 - Discord - https://discord.gg/nFrZATpzEy
 - Github - https://github.com/Teinyx/2b2t-modpack-no-client
 - Ko-fi - https://ko-fi.com/teinyx
+- modrinth - https://modrinth.com/modpack/2b2t_modpack - **no client version**
 
 ---
 
