@@ -54,14 +54,14 @@
         {
           "version": 1,
           "enabled": true,
-          "string": "Profile name",
+          "string": "AlastorSchweiger",
           "isKey": false,
           "isRegex": false
         },
         {
           "version": 1,
           "enabled": true,
-          "string": "Display name",
+          "string": "AlastorSchweiger",
           "isKey": false,
           "isRegex": false
         }
